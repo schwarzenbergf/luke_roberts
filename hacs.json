@@ -1,9 +1,10 @@
 {
-    "name": "Luke Roberts",
-    "render_readme": true,
-    "homeassistant": "2022.2.0",
-    "hide_default_branch": false,
-    "content_in_root": false,
-    "zip_release": true,
-    "filename": "luke_roberts.zip"
+    "name": "Integration blueprint",
+    "hacs": "1.6.0",
+    "domains": [
+        "binary_sensor",
+        "sensor",
+        "switch"
+    ],
+    "homeassistant": "0.118.0"
 }
