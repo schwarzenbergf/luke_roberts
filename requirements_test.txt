@@ -1,2 +1,2 @@
 pytest-homeassistant-custom-component==0.4.0
-jinja2<3.0.0
+jinja2==3.0.3
