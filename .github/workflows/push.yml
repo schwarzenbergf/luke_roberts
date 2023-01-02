@@ -43,6 +43,8 @@ jobs:
         uses: "actions/setup-python@v1"
         with:
           python-version: "3.8"
+      - name: Upgrade Flask (Jina2 error)
+        run: pip3 install Flask --upgrade
       - name: Install requirements
         run: python3 -m pip install -r requirements_test.txt
       - name: Run tests
