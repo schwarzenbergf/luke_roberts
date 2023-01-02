@@ -1,2 +1,7 @@
 pytest-homeassistant-custom-component==0.4.0
-jinja2<3.0
+Flask-Admin>=1.6.0
+Flask-API>=3.0.post1
+flask-paginate>=2022.1.8
+Flask-WTF>=1.0.1
+Flask>=2.2.2
+
