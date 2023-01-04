@@ -54,7 +54,7 @@ jobs:
             --timeout=9 \
             --durations=10 \
             -n auto \
-            --cov custom_components.integration_blueprint \
+            --cov custom_components.luke_roberts \
             -o console_output_style=count \
             -p no:sugar \
             tests
