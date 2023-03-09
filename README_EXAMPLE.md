@@ -11,7 +11,7 @@
 [![Discord][discord-shield]][discord]
 [![Community Forum][forum-shield]][forum]
 
-_Integration to integrate with [integration_blueprint][integration_blueprint]._
+_Integration to integrate with [luke_roberts][https://www.luke-roberts.com/]._
 
 **This integration will set up the following platforms.**
 
