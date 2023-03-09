@@ -1,12 +1,17 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
+  "domain": "luke_roberts",
+  "name": "Luke Roberts",
   "codeowners": [
-    "@ludeeus"
+    "@schwarzenbergf"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/ludeeus/integration_blueprint",
-  "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/ludeeus/integration_blueprint/issues",
-  "version": "0.0.0"
+  "dependencies": [bluetooth_adapters],
+  "documentation": "https://github.com/schwarzenbergf/luke_roberts",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/schwarzenbergf/luke_roberts/issues",
+  "loggers": [
+    "luke_roberts"
+  ],
+  "version": "0.0.1"
 }
