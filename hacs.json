@@ -1,7 +1,7 @@
 {
     "name": "Luke Roberts",
     "render_readme": true,
-    "homeassistant": "2022.2.0",
+    "homeassistant": "2023.9.0",
     "hide_default_branch": false,
     "content_in_root": false,
     "zip_release": true,
