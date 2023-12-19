@@ -1,9 +1,6 @@
 {
     "name": "Luke Roberts",
-    "render_readme": true,
-    "homeassistant": "2023.9.0",
-    "hide_default_branch": false,
-    "content_in_root": false,
-    "zip_release": true,
-    "filename": "luke_roberts.zip"
+    "hacs": "1.6.0",
+    "country": "DE",
+    "homeassistant": "2023.9.0"
 }
